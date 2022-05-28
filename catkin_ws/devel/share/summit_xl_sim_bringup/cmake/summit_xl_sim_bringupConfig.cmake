@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/summit_xl_sim_bringup/share/summit_xl_sim_bringup/cmake/summit_xl_sim_bringupConfig.cmake

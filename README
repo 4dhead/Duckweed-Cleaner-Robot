@@ -1,0 +1,58 @@
+--------READ ME FILE FOR BENJAMIN DUNN DUCKWEED HARVESTER ROBOT PROJECT--------
+
+Aurthor: Benjamin Dunn (bed45)
+Purpose: ROS designed robot program to navigate an enviroment and cover as much area as possible, to simulate the effectiveness of a water based robotcleaner.
+Completed: 05/05/2022
+
+I. File list
+----------------
+Navigate to: 
+
+	catkin_ws/src/summit_xl_sim/summit_xl_gazebo
+
+The files related to the project are:
+
+-smallWorld.launch
+    This is the launch file that will load gazebo with a summit XL robot and a simple small empty enviroment
+
+-smallWorldObstacles.launch
+    This is the launch file that will load gazebo with a summit XL robot and a simple small enviroment with obstacles	
+
+-mediumWorld.launch
+    This is the launch file that will load gazebo with a summit XL robot and a simple medium empty enviroment
+
+-mediumWorldObstacles.launch
+    This is the launch file that will load gazebo with a summit XL robot and a simple medium enviroment with obstacles	    
+
+-largeWorld.launch
+    This is the launch file that will load gazebo with a summit XL robot and a simple large empty enviroment	  
+
+-largeWorldObstacles.launch
+    This is the launch file that will load gazebo with a summit XL robot and a simple large enviroment with obstacles	
+
+-cajunCommanderCleaner.py
+    This python script will move the robot a given user distance and spiral out. Upon detection of an object it will proceed to move randomly around the enviroment. 
+    Upon completion of its user alloted time it will stop.   
+
+-testingV3.py
+    This python script will log the different coordiantes in the enviroment the robot has been. Using this, it will calculate, based on user input, the total area the robot has covered within the enviroment. 
+
+-heightmap, heightmap 2, heightmap Fig8, tinyMap
+    these are model files within model and describe different heightmap models for use within gazebo
+
+Other files that exist but are not mentioned here are either previous versions of scripts/gazebo worlds created by Benjamin Dunn or files created by the Robotnik Summit team. They are not a part of the finished project material and
+come from the Summit XL GitHub. The original copy can be found here:
+
+	https://github.com/RobotnikAutomation/summit_xl_sim
+
+II. Build
+----------------
+Unzip and catkin build/make when in the catkin directory.
+If there are issues with this, instead place files within src into your own
+prebuild catkin directories src file. Then catkin build/make. 
+
+To run, simply open command line and:
+    -Terminal 1: roscore
+    -Terminal 2: roslaunch "directory name" "name of the launch file you wish to use".launch (allow a brief amount of time for different programs to load)
+    -Terminal 3: rosrun "directory name" cajunCommanderCleaner.py
+    -Terminal 4: rosrun "directory name" testingV3.py

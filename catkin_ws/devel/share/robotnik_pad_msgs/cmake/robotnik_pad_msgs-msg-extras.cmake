@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_msgs/share/robotnik_pad_msgs/cmake/robotnik_pad_msgs-msg-extras.cmake

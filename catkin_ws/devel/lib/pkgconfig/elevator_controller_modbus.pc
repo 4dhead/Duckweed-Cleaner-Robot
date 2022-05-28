@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/elevator_controller_modbus/lib/pkgconfig/elevator_controller_modbus.pc

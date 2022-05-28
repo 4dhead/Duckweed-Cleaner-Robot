@@ -1,0 +1,13 @@
+kinova-ros/kinova_driver
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/cmake.lock /home/benjamin/catkin_ws/devel/./cmake.lock
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/share/kinova_driver/cmake/kinova_driverConfig-version.cmake /home/benjamin/catkin_ws/devel/share/kinova_driver/cmake/kinova_driverConfig-version.cmake
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/share/kinova_driver/cmake/kinova_driverConfig.cmake /home/benjamin/catkin_ws/devel/share/kinova_driver/cmake/kinova_driverConfig.cmake
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/libkinova_driver.so /home/benjamin/catkin_ws/devel/lib/libkinova_driver.so
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/gripper_command_action_server /home/benjamin/catkin_ws/devel/lib/kinova_driver/gripper_command_action_server
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/joint_trajectory_action_server /home/benjamin/catkin_ws/devel/lib/kinova_driver/joint_trajectory_action_server
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/kinova_arm_driver /home/benjamin/catkin_ws/devel/lib/kinova_driver/kinova_arm_driver
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/kinova_interactive_control /home/benjamin/catkin_ws/devel/lib/kinova_driver/kinova_interactive_control
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/kinova_tf_updater /home/benjamin/catkin_ws/devel/lib/kinova_driver/kinova_tf_updater
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/python2.7/dist-packages/kinova_driver/__init__.py /home/benjamin/catkin_ws/devel/lib/python2.7/dist-packages/kinova_driver/__init__.py
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/python2.7/dist-packages/kinova_driver/cfg/__init__.py /home/benjamin/catkin_ws/devel/lib/python2.7/dist-packages/kinova_driver/cfg/__init__.py
+/home/benjamin/catkin_ws/devel/.private/kinova_driver/lib/pkgconfig/kinova_driver.pc /home/benjamin/catkin_ws/devel/lib/pkgconfig/kinova_driver.pc

@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/robotnik_msgs/include/robotnik_msgs/get_modeResponse.h

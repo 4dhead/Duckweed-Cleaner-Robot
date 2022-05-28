@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/robotnik_elevator_interface_msgs/share/common-lisp/ros/robotnik_elevator_interface_msgs/msg/_package.lisp

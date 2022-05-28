@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/summit_xl_control/share/summit_xl_control/cmake/summit_xl_controlConfig.cmake

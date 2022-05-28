@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/summit_xl_gazebo/share/summit_xl_gazebo/cmake/summit_xl_gazeboConfig.cmake

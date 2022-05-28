@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/summit_xl_pad/share/summit_xl_pad/cmake/summit_xl_pad-msg-paths.cmake

@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_msgs/share/gennodejs/ros/robotnik_pad_msgs/msg/MovementStatus.js

@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/interbotix_xsarm_joy/share/common-lisp/ros/interbotix_xsarm_joy/msg/ArmJoy.lisp

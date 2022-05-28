@@ -1,0 +1,7 @@
+robotnik_pad/robotnik_pad_plugins
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_plugins/cmake.lock /home/benjamin/catkin_ws/devel/./cmake.lock
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_plugins/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig-version.cmake /home/benjamin/catkin_ws/devel/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig-version.cmake
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_plugins/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig.cmake /home/benjamin/catkin_ws/devel/share/robotnik_pad_plugins/cmake/robotnik_pad_pluginsConfig.cmake
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_plugins/lib/librobotnik_pad_pluginlib.so /home/benjamin/catkin_ws/devel/lib/librobotnik_pad_pluginlib.so
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_plugins/lib/librobotnik_pad_plugins.so /home/benjamin/catkin_ws/devel/lib/librobotnik_pad_plugins.so
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_plugins/lib/pkgconfig/robotnik_pad_plugins.pc /home/benjamin/catkin_ws/devel/lib/pkgconfig/robotnik_pad_plugins.pc

@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/interbotix_xsarm_diagnostic_tool/include/interbotix_xsarm_diagnostic_tool/JointTemps.h

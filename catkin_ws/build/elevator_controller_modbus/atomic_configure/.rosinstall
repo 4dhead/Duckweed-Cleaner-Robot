@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/benjamin/catkin_ws/devel/.private/elevator_controller_modbus/setup.sh

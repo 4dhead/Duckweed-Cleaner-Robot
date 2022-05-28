@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/robotnik_pad_msgs/share/roseus/ros/robotnik_pad_msgs/manifest.l

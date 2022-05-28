@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/summit_xl_control/lib/pkgconfig/summit_xl_control.pc

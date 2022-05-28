@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/costmap_prohibition_layer/lib/python2.7/dist-packages/costmap_prohibition_layer/srv/_SetProhibitedPoints.py

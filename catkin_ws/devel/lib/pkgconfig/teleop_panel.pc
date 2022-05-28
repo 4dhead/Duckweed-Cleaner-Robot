@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/teleop_panel/lib/pkgconfig/teleop_panel.pc

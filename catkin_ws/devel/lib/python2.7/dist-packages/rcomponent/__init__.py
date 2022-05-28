@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/rcomponent/lib/python2.7/dist-packages/rcomponent/__init__.py

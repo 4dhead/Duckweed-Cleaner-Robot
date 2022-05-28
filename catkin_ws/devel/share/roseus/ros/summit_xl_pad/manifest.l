@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/summit_xl_pad/share/roseus/ros/summit_xl_pad/manifest.l

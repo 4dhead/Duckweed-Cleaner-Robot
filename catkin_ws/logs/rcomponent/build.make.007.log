@@ -1,0 +1,7 @@
+[  0%] Built target robotnik_msgs_generate_messages_cpp
+[ 16%] Built target rcomponent
+[ 33%] Built target test_namespace
+[ 50%] Built target rcomponent_diagnostic
+[ 66%] Built target rcomponent_simple_async
+[ 83%] Built target rcomponent_server
+[100%] Built target rcomponent_simple

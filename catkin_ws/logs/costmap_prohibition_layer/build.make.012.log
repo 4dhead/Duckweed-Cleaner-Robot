@@ -1,0 +1,23 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  4%] Built target costmap_prohibition_layer_gencfg
+[  4%] Built target std_msgs_generate_messages_cpp
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_ClearProhibitedPoints
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_GetProhibitedPoints
+[  4%] Built target geometry_msgs_generate_messages_py
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_SetProhibitedPoints
+[  4%] Built target std_msgs_generate_messages_py
+[  4%] Built target geometry_msgs_generate_messages_nodejs
+[  4%] Built target std_msgs_generate_messages_nodejs
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_AddProhibitedPoints
+[  4%] Built target geometry_msgs_generate_messages_lisp
+[  4%] Built target std_msgs_generate_messages_lisp
+[  4%] Built target geometry_msgs_generate_messages_eus
+[  4%] Built target std_msgs_generate_messages_eus
+[ 32%] Built target costmap_prohibition_layer_generate_messages_py
+[ 40%] Built target costmap_prohibition_layer_generate_messages_cpp
+[ 56%] Built target costmap_prohibition_layer_generate_messages_nodejs
+[ 72%] Built target costmap_prohibition_layer_generate_messages_lisp
+[ 92%] Built target costmap_prohibition_layer_generate_messages_eus
+[ 96%] Built target costmap_prohibition_layer_generate_messages
+[ 96%] [32m[1mLinking CXX shared library /home/benjamin/catkin_ws/devel/.private/costmap_prohibition_layer/lib/libcostmap_prohibition_layer.so[0m
+[100%] Built target costmap_prohibition_layer

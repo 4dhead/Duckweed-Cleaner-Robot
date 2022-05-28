@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/costmap_prohibition_layer/share/roseus/ros/costmap_prohibition_layer/srv/SetProhibitedPoints.l

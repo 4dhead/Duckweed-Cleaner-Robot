@@ -1,0 +1,5 @@
+summit_xl_sim/summit_xl_sim_bringup
+/home/benjamin/catkin_ws/devel/.private/summit_xl_sim_bringup/cmake.lock /home/benjamin/catkin_ws/devel/./cmake.lock
+/home/benjamin/catkin_ws/devel/.private/summit_xl_sim_bringup/share/summit_xl_sim_bringup/cmake/summit_xl_sim_bringupConfig.cmake /home/benjamin/catkin_ws/devel/share/summit_xl_sim_bringup/cmake/summit_xl_sim_bringupConfig.cmake
+/home/benjamin/catkin_ws/devel/.private/summit_xl_sim_bringup/share/summit_xl_sim_bringup/cmake/summit_xl_sim_bringupConfig-version.cmake /home/benjamin/catkin_ws/devel/share/summit_xl_sim_bringup/cmake/summit_xl_sim_bringupConfig-version.cmake
+/home/benjamin/catkin_ws/devel/.private/summit_xl_sim_bringup/lib/pkgconfig/summit_xl_sim_bringup.pc /home/benjamin/catkin_ws/devel/lib/pkgconfig/summit_xl_sim_bringup.pc

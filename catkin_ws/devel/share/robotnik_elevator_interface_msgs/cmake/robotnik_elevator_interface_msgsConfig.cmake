@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/robotnik_elevator_interface_msgs/share/robotnik_elevator_interface_msgs/cmake/robotnik_elevator_interface_msgsConfig.cmake

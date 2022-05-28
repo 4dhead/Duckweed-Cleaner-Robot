@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/kinova_msgs/share/roseus/ros/kinova_msgs/msg/Arm_KinovaPoseActionFeedback.l

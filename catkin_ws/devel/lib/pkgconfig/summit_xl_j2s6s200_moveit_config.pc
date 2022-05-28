@@ -1,0 +1,1 @@
+/home/benjamin/catkin_ws/devel/.private/summit_xl_j2s6s200_moveit_config/lib/pkgconfig/summit_xl_j2s6s200_moveit_config.pc

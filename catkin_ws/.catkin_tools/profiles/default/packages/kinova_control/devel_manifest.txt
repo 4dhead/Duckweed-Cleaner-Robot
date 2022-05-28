@@ -1,0 +1,5 @@
+kinova-ros/kinova_control
+/home/benjamin/catkin_ws/devel/.private/kinova_control/cmake.lock /home/benjamin/catkin_ws/devel/./cmake.lock
+/home/benjamin/catkin_ws/devel/.private/kinova_control/share/kinova_control/cmake/kinova_controlConfig.cmake /home/benjamin/catkin_ws/devel/share/kinova_control/cmake/kinova_controlConfig.cmake
+/home/benjamin/catkin_ws/devel/.private/kinova_control/share/kinova_control/cmake/kinova_controlConfig-version.cmake /home/benjamin/catkin_ws/devel/share/kinova_control/cmake/kinova_controlConfig-version.cmake
+/home/benjamin/catkin_ws/devel/.private/kinova_control/lib/pkgconfig/kinova_control.pc /home/benjamin/catkin_ws/devel/lib/pkgconfig/kinova_control.pc

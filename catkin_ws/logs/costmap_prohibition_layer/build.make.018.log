@@ -1,0 +1,22 @@
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  4%] Built target costmap_prohibition_layer_gencfg
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_ClearProhibitedPoints
+[  4%] Built target std_msgs_generate_messages_cpp
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_GetProhibitedPoints
+[  4%] Built target geometry_msgs_generate_messages_py
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_AddProhibitedPoints
+[  4%] Built target std_msgs_generate_messages_py
+[  4%] Built target std_msgs_generate_messages_nodejs
+[  4%] Built target _costmap_prohibition_layer_generate_messages_check_deps_SetProhibitedPoints
+[  4%] Built target geometry_msgs_generate_messages_nodejs
+[  4%] Built target geometry_msgs_generate_messages_lisp
+[  4%] Built target geometry_msgs_generate_messages_eus
+[  8%] Built target std_msgs_generate_messages_lisp
+[  8%] Built target std_msgs_generate_messages_eus
+[ 20%] Built target costmap_prohibition_layer_generate_messages_cpp
+[ 40%] Built target costmap_prohibition_layer_generate_messages_py
+[ 56%] Built target costmap_prohibition_layer_generate_messages_nodejs
+[ 92%] Built target costmap_prohibition_layer_generate_messages_lisp
+[ 92%] Built target costmap_prohibition_layer_generate_messages_eus
+[100%] Built target costmap_prohibition_layer
+[100%] Built target costmap_prohibition_layer_generate_messages
