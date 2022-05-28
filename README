@@ -1,5 +1,7 @@
 --------READ ME FILE FOR BENJAMIN DUNN DUCKWEED HARVESTER ROBOT PROJECT--------
 
+Please navigate to master branch
+
 Aurthor: Benjamin Dunn (bed45)
 Purpose: ROS designed robot program to navigate an enviroment and cover as much area as possible, to simulate the effectiveness of a water based robotcleaner.
 Completed: 05/05/2022
